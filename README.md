@@ -1,0 +1,2 @@
+# seminarionic
+project seminar
